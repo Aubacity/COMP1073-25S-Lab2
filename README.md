@@ -1,8 +1,12 @@
 # COMP1073-25S-Lab2
 
+https://aubacity.github.io/COMP1073-25S-Lab2/
+
 Group 4
 
 Sean Cousins - 200415975
+Afia Foriwaa Yeboah - 200624860
+Sanjana Devi- 2005
 
 
 Location : Halifax, NS
