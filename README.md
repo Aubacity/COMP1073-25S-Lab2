@@ -2,6 +2,9 @@
 
 Group 4
 
+Sean Cousins - 200415975
+
+
 Location : Halifax, NS
 Target Role: Marine Technician
 Years of Experience : 4
